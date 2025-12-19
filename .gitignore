@@ -97,3 +97,51 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# Visual Studio / VSCode
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Generated data
+*.bak
+*.backup
+*.log
+*.stackdump
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+venv/
+env/
+.DS_Store
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
